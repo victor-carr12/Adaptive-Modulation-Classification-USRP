@@ -1,4 +1,4 @@
-# Adaptive-Modulation-Classification-USRP and Machine Learning
+# Adaptive-Modulation-Classification-USRP via Machine Learning
 **Contributors:** Oscar Miranda, Jack Wyatt
 
 **Degree:** Bachor's of Science in Electrical Engineering
